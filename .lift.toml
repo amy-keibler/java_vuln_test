@@ -1,1 +1,1 @@
-tools = [ "errorprone_new" ]
+tools = [ "errorprone" ]
