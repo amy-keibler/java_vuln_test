@@ -11,7 +11,6 @@ public class Test {
 			int i = 3 + (4);
 			System.out.println("Not equal to null");
 			return;
-			int x = 0;
 		}
 		System.out.println("Equal to null");
 	}
