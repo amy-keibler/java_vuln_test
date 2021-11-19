@@ -17,6 +17,7 @@ public class Test {
 			return;
 		}
 		System.out.println("Equal to null");
+		System.out.println(Example::getMessage())
 	}
 }
 
